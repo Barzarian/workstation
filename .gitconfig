@@ -1,0 +1,13 @@
+[color]
+	ui = true
+[user]
+	name = Barzarian
+	email = Barzarian@pm.me
+	signingkey = 5E77672C2E0184BA
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+
+[credential]
+	helper = store
