@@ -1,12 +1,20 @@
 {
-  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.colorTheme": "Brogrammer",
   "workbench.iconTheme": "vscode-icons",
   "workbench.activityBar.location": "top",
   "workbench.sideBar.location": "left",
   "workbench.secondarySideBar.defaultVisibility": "visible",
   "workbench.startupEditor": "none",
   "workbench.editor.restoreViewState": true,
-  "workbench.colorCustomizations": {
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontSize": 16,
+  "files.autoSave": "onFocusChange",
+   "editor.wordWrap": "on",
+   "rubyLsp.addonSettings": {
+
+    }, // 
+    "editor.cursorBlinking": "solid"
+    "workbench.colorCustomizations": {
     "focusBorder": "#00000000",
     "activityBarBadge.background": "#4d9375"
   },
